@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :3: for Floccus bookmark sync browser extension -->
+<!--- highestId :4: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://photoshop.adobe.com/" id="1">
   <title>Adobe Photoshop</title>
@@ -11,5 +11,8 @@
 </bookmark>
 <bookmark href="https://www.canva.com/" id="3">
   <title>Canva</title>
+</bookmark>
+<bookmark href="https://mail.google.com/mail/u/0/#inbox" id="4">
+  <title>Posta in arrivo (69) - andrea.gambitta.dev@gmail.com - Gmail</title>
 </bookmark>
 </xbel>
